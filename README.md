@@ -1,2 +1,2 @@
 # Selenium.Stepik
-Study Project
+Репозиторий для задачек с курса по Selenium на Stepik
